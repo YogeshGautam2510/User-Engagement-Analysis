@@ -4,7 +4,7 @@ A data analytics project using the Yelp dataset to understand how **user engagem
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 In a competitive restaurant industry, understanding the relationship between customer engagement and business success is critical.
 
@@ -17,13 +17,13 @@ This project analyzes large-scale Yelp data to uncover:
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Analyze whether higher user engagement (reviews, tips, check-ins) leads to better business outcomes such as higher ratings and increased visibility.
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 - Measure correlation between engagement metrics and ratings  
 - Analyze sentiment impact (useful, funny, cool)  
@@ -32,16 +32,16 @@ Analyze whether higher user engagement (reviews, tips, check-ins) leads to bette
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Database:** SQLite  
-- **Data Source:** Yelp Open Dataset  
+- **Data Source:** help Open Dataset  
 
 ---
 
-## 📊 Data Pipeline
+## Data Pipeline
 
 - Loaded large JSON datasets (business, review, user, tip, check-in)  
 - Stored structured data into **SQLite database**  
@@ -50,18 +50,18 @@ Analyze whether higher user engagement (reviews, tips, check-ins) leads to bette
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 
-- 📈 Engagement vs Ratings Analysis  
-- 🔗 Correlation between reviews, tips, and check-ins  
-- 🧑‍💼 Elite vs Non-Elite User Contribution  
-- 🕒 Time Series & Seasonality Analysis (including COVID impact)  
-- 🌍 Geographic Analysis across cities  
-- 💬 Sentiment Analysis using engagement metrics  
+- Engagement vs Ratings Analysis  
+- Correlation between reviews, tips, and check-ins  
+- Elite vs Non-Elite User Contribution  
+- Time Series & Seasonality Analysis (including COVID impact)  
+- Geographic Analysis across cities  
+- Sentiment Analysis using engagement metrics  
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Restaurants with ~4-star ratings show **highest engagement levels**  
 - Reviews, tips, and check-ins are **strongly correlated**  
@@ -72,7 +72,7 @@ Analyze whether higher user engagement (reviews, tips, check-ins) leads to bette
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Focus on maintaining high ratings to maximize engagement  
 - Leverage **elite users** for visibility and growth  
@@ -82,7 +82,7 @@ Analyze whether higher user engagement (reviews, tips, check-ins) leads to bette
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 User_Engagement_Analysis/
